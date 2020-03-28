@@ -53,10 +53,10 @@ DOCTYPE is a declaration that tells the browser which HTML version is being used
 - Current HTML doctype that is use is HTML5
     - Other versions include HTML4, Transitional XHTML 1.0, Strict XHTML 1.0, and XML Declartion 
 
-## Comments In HTML
+### Comments In HTML
 "<!- ->" Uses double dashes, but allows us to put in notes that tell us what we are doing in the code. This can also be used to "comment out" Code so that it is not rendered in the browse.
 
-## ID Attributes
+### ID Attributes
 ```
 <h1 id="heads"> .... </h1>
 ```
@@ -71,7 +71,7 @@ This allows us to target this element in CSS and manipulate how it is formatted.
 }
 ```
 
-## Class Attribute
+### Class Attribute
 This is similar to the ID attribute, but it can be used to target specific elements in the page.
 ```
 <p class class="important> ... </p>
@@ -82,17 +82,50 @@ This is similar to the ID attribute, but it can be used to target specific eleme
 }
 ```
 
-## Block Elements
+### Block Elements
 These elements always appear to start on a new line in the browser 
-- include 
+- includes:
 ```
 <h1>, <p>, <ul>, <li>
 ```
-## Inline Elements
+### Inline Elements
 Always appear as thought they continue on the same line as their neighbors.
-- include 
+- includes:
 ```
 <a>, <b>, <em>, and <img>
+```
+### Grouping Text and Elements In A Block
+We do this by using the Div tag
+```
+<div id="content>
+    <h1> ... </h1>
+    <p> ... </p>
+    <p> ... </p>
+</div>
+```
+
+### Span
+Another way to target specific elements in your code. This is used inline opposed to targeting the entire block of code. 
+This will put your code in a seperate box that allows you to move it around, modify content within it as well as many other things
+    
+```
+<p> A bow tie is a <span style="text-wieght: bold"> bold </span> choice </p>
+
+```
+## More Markups!
+
+### iframe
+A page withing a page. Can be used to put a map in or some other object.
+```
+<iframe>
+```
+
+### Meta Tags
+These are cool because you can put description of what the page is all about with out having it rendered to the browser
+```
+<meta name="description"
+    content="telling us what the description of something is>
+
 ```
 
 //
