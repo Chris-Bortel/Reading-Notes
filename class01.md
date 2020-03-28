@@ -143,8 +143,37 @@ These are cool because you can put description of what the page is all about wit
 
 
 # HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-//
+HTML5 give us elements that allow us to use less DIV elements to format the our documents. The provides us with cleaner code!
+- instead of using DIV for every section of the document, we use:
+```
+<section>
+<article>
+    <figure> </figure> 
 
+
+```
+
+```
+<!DOCTYPES html>
+<html>
+    <head>
+        <title> </title>
+        <style type="text/css">
+        ...
+        ...
+        ...
+        </style>
+    </head>
+    
+    <body>
+    <div class="course"
+    >
+    </body>
+</html> 
+```
+
+
+//
 //
 ************
 ************
