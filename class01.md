@@ -34,8 +34,15 @@ Make sure to use both opening and closing tags.
 <html lang="en-US">
 ```
 - Attr tells us information about the content that is inside of the tags. The above snippet denotes that the html content is in english. 
+*************
 
-//
+### Content Management System
+- Allows clients to modify one template in order to modify content throughout the website. This is easier than having to modify every single item throughout the site.
+
+## Conclusion
+HTML Structure is the base of a website, and controls what content is visible and how it is presented. 
+
+
 ### Markdown Entry Ideas
 - Blog Article (2-3 paragraphs with code sample)
 - Dictionary / Flash Cards
