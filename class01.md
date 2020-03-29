@@ -180,18 +180,67 @@ HTML5 give us elements that allow us to use less DIV elements to format the our 
 ************
 # HTML Chapter 18: “Process & Design” (pp.452-475)
 
-### Markdown Entry Ideas
-- Blog Article (2-3 paragraphs with code sample)
-- Dictionary / Flash Cards
-- Notes in outline form
-- Use an analogy
-- Explain a detail in depth
-- Use WHY, WHAT, HOW structure
-- Tutorial / walk through an example as though you were teaching a 102 student
-- Write a quiz
-- Create a vocabulary/definition list
-- Write a cheat sheet
-- Create a diagram / visualization / cartoon of a topic
-- Anthropomorphize the concepts, and write a conversation between them
-- Build a map of the information
-- Construct a fill-in-the-blank worksheet for the topic
+### Understand target audience
+#### Who is the site for!?
+- It is important to figure out who the site is for, who will be utilizing it, and what the goal is that the site is fullfilling. 
+#### Why are people coming to the site?
+//
+We can answer this by listing/ discovering why the key motivators why someone would use the site.
+- Examine the goals of the visitor
+    - Shopping
+    - Gaining information
+    - Recreation
+    - Looking for services
+    - Wanting to reach out to the company or individual that the site is built for
+- Figure out what information viewer are looking for on the website. This will allow you to make the site useful and most importantly, utilized. 
+
+### Psuedo Code
+### Site mapping - form a plan for the stucture of a site. 
+//
+A diagram that shows the pages that will be on the site and the order/structure that they will be presented/grouped in. 
+- This shows the hierachy of the site. 
+- Could include:
+    - Home page
+        - About and what will be inside of that section.
+        - Articles ...
+        - Contacts - How to get ahold of the company
+        - etc...
+#### Wireframes are your friend
+//
+The main purpose of this tool is to show the devopers and clients a vague layout of what the website and its pages will looklike and how they will flow together
+- Organizes thoughts for what needs to happen on each page and how to execute it.
+
+
+### Make sites obvious.
+//
+People should know what your site is trying to accomplish.
+- Visual hierachy is a helpful tool to get this done.
+- A well thought out and easily uderstandable navigation method is an important tool in order to make a site usefull and approachable.
+    Nav bar should be/have
+    - Concise
+    - Clear
+    - Selective - only displaying the different sections or content of the site.
+    - Context - Should make sense why the different section are there and how they relate to eachother.
+    - Should be easy to interact with. 
+    - All nav features should work that same throughout the site.
+        - Users do not want to have to guess how to get around.
+
+
+*************
+*************
+*************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
