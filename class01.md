@@ -1,14 +1,16 @@
+# R
+
 # HTML Chapter 1: “Structure” (pp.12-39)
 ### Summary/Things to look out for while reading 
 
 ***************
 * HTML pages are text documents.
 * HTML uses tage (characters that sit inside angled brackets)to give the info they surround special meaning 
-    - Tags are oftenn referred tp as e;e,emts 
+    - Tags are often referred to as elements 
     -  Usually come in pairs < >
     - Opening tags carry attributes, which tell us more about the content of that element
     - Attributes require a name and a value
-    - Learn where tags can go and what they are used for. 
+    - Learn where tags can go and what they are used for 
 **************
 This is what an HTML structure looks like. 
 ``` 
@@ -25,7 +27,7 @@ This is what an HTML structure looks like.
 
 ```
 Make sure to use both opening and closing tags.
- - Tags act as container that tell you about the content.
+ - Tags act as container that tell you about the content
 
  ***********
 
