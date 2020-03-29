@@ -1,4 +1,4 @@
-# R
+Read: 01 - Introductory HTML and JavaScript
 
 # HTML Chapter 1: “Structure” (pp.12-39)
 ### Summary/Things to look out for while reading 
@@ -226,11 +226,44 @@ People should know what your site is trying to accomplish.
     - Should be easy to interact with. 
     - All nav features should work that same throughout the site.
         - Users do not want to have to guess how to get around.
+**IMPORTANT**
+When writing scripts, the goal **MUST** be broken down into a series of small/digestible tasks
 
 
 *************
 *************
 *************
+
+# JS Chapter 1: “The ABC of Programming” (pp.11-52)
+## ABC of Programing
+### A
+Script - list of instructions that a computers follows in order to achieve a goal set by the developer.
+    - Browser may only use a certain part of the script based on how the user is interaction with the web page
+        -If and event happens, then a section of code may fire in response. 
+    - Programatic approaches are required for communicating with the computer. 
+        - Give the coomputer a list of small tasks to complete in order to complete a larger task/goal.
+    
+### B
+Computers make webpages with models of world situations with data programmed by developers.
+- These models are made up of objects which can have properties that better explain the object. Also made up of:
+    - Methods, that use the properties of an object to perform tasks. 
+    - Events, that are related to the prior two. Events are triggered based on the interactions of the users.
+        - (Ex. When this happens, do this)
+The webpage can be made interactive by the way that the browser model in written.  
+### C
+#### Writing a script for a webpage
+JS is a seperate file that manipulates the scr code from HTML and the styling from CSS.
+    - The Src code (HTML) is not ammended, but in the DOM it is rendered by JS differently. 
+
+#### How to use objects and methods
+In a script, we are going to use:
+- An object "document"
+- A member operator
+- A method
+
+
+
+
 
 
 
