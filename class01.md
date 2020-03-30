@@ -1,4 +1,5 @@
 Read: 01 - Introductory HTML and JavaScript
+3/29/20
 
 # HTML Chapter 1: “Structure” (pp.12-39)
 ### Summary/Things to look out for while reading 
@@ -7,12 +8,12 @@ Read: 01 - Introductory HTML and JavaScript
 * HTML pages are text documents.
 * HTML uses tage (characters that sit inside angled brackets)to give the info they surround special meaning 
     - Tags are often referred to as elements 
-    -  Usually come in pairs < >
+    - Usually come in pairs < >
     - Opening tags carry attributes, which tell us more about the content of that element
     - Attributes require a name and a value
     - Learn where tags can go and what they are used for 
 **************
-This is what an HTML structure looks like. 
+This is what HTML structure looks like. 
 ``` 
 <html>
     <body>
@@ -91,7 +92,7 @@ These elements always appear to start on a new line in the browser
 <h1>, <p>, <ul>, <li>
 ```
 ### Inline Elements
-Always appear as thought they continue on the same line as their neighbors.
+Always appear as though they continue on the same line as their neighbors.
 - includes:
 ```
 <a>, <b>, <em>, and <img>
@@ -146,34 +147,9 @@ These are cool because you can put description of what the page is all about wit
 
 # HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 HTML5 give us elements that allow us to use less DIV elements to format the our documents. The provides us with cleaner code!
-- instead of using DIV for every section of the document, we use:
-```
-<section>
-<article>
-    <figure> </figure> 
-
-
-```
-
-```
-<!DOCTYPES html>
-<html>
-    <head>
-        <title> </title>
-        <style type="text/css">
-        ...
-        ...
-        ...
-        </style>
-    </head>
-    
-    <body>
-    <div class="course"
-    >
-    </body>
-</html> 
-```
-
+- They also are describe what different sections of codes do more clearly than listing div with classes.
+_ These tags include: content, aside, nav, article
+- These provide more readable code making it easier to come back later and work with
 
 //
 //
@@ -222,7 +198,7 @@ People should know what your site is trying to accomplish.
     - Concise
     - Clear
     - Selective - only displaying the different sections or content of the site.
-    - Context - Should make sense why the different section are there and how they relate to eachother.
+    - Context - Should make sense why the different section are there and how they relate to each other.
     - Should be easy to interact with. 
     - All nav features should work that same throughout the site.
         - Users do not want to have to guess how to get around.
@@ -252,7 +228,7 @@ Computers make webpages with models of world situations with data programmed by 
 The webpage can be made interactive by the way that the browser model in written.  
 ### C
 #### Writing a script for a webpage
-JS is a seperate file that manipulates the scr code from HTML and the styling from CSS.
+JS is a seperate file that manipulates the source code from HTML and the styling from CSS.
     - The Src code (HTML) is not ammended, but in the DOM it is rendered by JS differently. 
 
 #### How to use objects and methods
