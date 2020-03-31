@@ -1,5 +1,5 @@
 Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-
+3/30/20
 ## Chapter 2: “Text” (pp.40-61) 
 - Headings and paragraphs
   - h1-h6; h1 is the biggest/boldest
@@ -12,15 +12,16 @@ Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
   ### Take away
   There are a bunch of different tags that are used to modify the text of a webpage. This allows us to emphasize portions of the page and declare others as supporting content.
 
-- Bold, italix, emphasis
+- Bold, italic, emphasis
 -Structural and semantic markup
+
 ************
 *************
 
-## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
-CSS is what makes your page atractive, it gives design to the html.
+## Chapter 10: “Introducing CSS” (pp.226-245)
+CSS is what makes your page attractive, it gives design to the html.
 ### CSS works if of HTML elements
-- Css works by associating rules with HTMl elements 
+- Css works by associating rules with HTML elements 
   - Css rule - has two parts: a selector and a declaration.
     - Selector - grabs the element to be styled
     - Declaration - This is what is styling the element. 
@@ -60,8 +61,8 @@ Variables store lots of things
 
 ### Arrays
 Special type of variable that stores a list of variables
--Indexes start at i[0] colors = ['white', 'black', 'blue']
-  - i[0] = white
+-Indexes start at i [0] colors = ['white', 'black', 'blue']
+  - i [0] = white
 
 ### Expressions
 Evaluates into a single value
@@ -72,6 +73,8 @@ Mathmatical operators that are used with numbers
 ### String operator
 - + is the only one, it is used to join strings together
 
+**********
+**********
 
 ## Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 Loops - perform the same set of steps repeatedly
@@ -94,6 +97,17 @@ Decisions are made up of two parts
 - || - Logical or
 - ! - Logical Not
 
+### If statements 
+- If statement: 
+  - Evaluates a condition. If the condition is true, then the next code blocks are executed. 
+  - If the condition evaluates to false, then the code stops.
+
+### if...else statement
+- if...else:
+  - Checks a condition.
+    - if condition is true, then the first block of code runs
+    - if condition is false, then the second block of code runs instead
+  
 
 
 
