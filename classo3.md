@@ -52,4 +52,36 @@ You can do so much with css to boxes
 
 **Important** : You can make content more readable by controlling the width of the box that contains it.
 
-## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182) 
+
+Switch Statements
+- contain a variable called the switch value
+- similar to and 'if else', each case indicates a possible value for the switch variable and the code that should run if the variable matches the value
+![switchVsIf..else](img/switch-vs-if...else.png)
+
+Type Coercion and Weak Typing 
+- If  you write something that js does not expect, it will try to make it work without throwing an error.
+-Weak typing refers to js not needing to know the specific data type of each variable.
+
+Truthy and Falsy Values
+- ???? I do not get this. I understand what it does in the code, but I do not understand the logic. **LOOK INTO THIS**
+-can be used to check for the existence of an elemen on a page
+'===' and '!==' lead to fewer unexpected values than ==and !=
+
+#### Loops
+-Check for a condition. If true, the block of code will run. It will do so until it is false.
+
+![forloop](img/switch-vs-if...else.png)
+
+-loop counters
+  - counter tells the code to run a specified number of times.
+  'var i = 0;' 'i < 10;' 'i++'
+
+  #### All values evaluate to either truthy or falsy. 
+
+  #### difference between while and for loops????
+
+A for loop is often used to loop through the items in an array.
+
+
+
