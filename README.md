@@ -1,13 +1,14 @@
 # Reading-Notes
 ##### This website is built with the purpose of documenting and highlighting the information that I obtained through my class readings. 
+[GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
 
 ## Code 102
 ## Code 201
-[Read: 01 - Introductory HTML and JavaScript](class01.md)
-[Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)
-[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class03.md)
-[Read: 04 - HTML Links, CSS Layout, JS Functions](class04.md)
-[Read: 05 - HTML Images; CSS Color & Text](class05.md)
+- [Read: 01 - Introductory HTML and JavaScript](class01.md)
+- [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)
+- [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class03.md)
+- [Read: 04 - HTML Links, CSS Layout, JS Functions](class04.md)
+- [Read: 05 - HTML Images; CSS Color & Text](class05.md)
 
 
 ## Code 301
