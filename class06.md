@@ -1,3 +1,6 @@
+# Read 06
+[GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
+
 # Chapter 3: “Object Literals” (pp.100-105)
  - you create an object literal by:
   - The object is the curly braces and their contents. The object is stored in a variable called hotel. Therefore, you refer to it as the hotel object. 
