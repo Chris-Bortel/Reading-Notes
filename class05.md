@@ -77,4 +77,4 @@ There are set options for fonts
 - Underlines: text-decoration 
 ### Spacing between lines, words, and letters
 This is controlled by kerning
-- controling the space between each letter with the letter-spacing property pp. 284
+- controlling the space between each letter with the letter-spacing property pp. 284
