@@ -10,6 +10,7 @@
 - [Read: 04 - HTML Links, CSS Layout, JS Functions](class04.md)
 - [Read: 05 - HTML Images; CSS Color & Text](class05.md)
 - [Read: 06 - JS Object Literals; The DOM](class06.md)
+- [Read: 07 - HTML Tables; JS Constructor Functions](class07.md)
 
 
 ## Code 301
