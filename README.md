@@ -12,8 +12,9 @@
 - [Read: 06 - JS Object Literals; The DOM](class06.md)
 - [Read: 07 - HTML Tables; JS Constructor Functions](class07.md)
 - [Read: 08 - HTML/CSS book, Ch. 15, “Layout” -- again; repeat of Class 4 reading](class08.md)
-- [Read: 09 - Forms and Events](class08.md)
-
+- [Read: 09 - Forms and Events](class09.md)
+- [Read: 10 - JS Debugging](class10.md)
+- [Read: 11 - Assorted Topics](class11.md)
 
 ## Code 301
 ## Code 401
