@@ -15,6 +15,7 @@
 - [Read: 09 - Forms and Events](class09.md)
 - [Read: 10 - JS Debugging](class10.md)
 - [Read: 11 - Assorted Topics](class11.md)
+- [Read: 12 - Docs for the HTML Element and chart.js](class12.md)
 
 ## Code 301
 ## Code 401
