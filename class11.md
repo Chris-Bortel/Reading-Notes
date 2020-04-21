@@ -1,5 +1,5 @@
 # Read: 11 - Assorted Topics
-
+- [GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
 
 ## Chapter 16: “Images” (pp.406-427)
 Manipulation the image inside on the css is better because it do not mess up the html

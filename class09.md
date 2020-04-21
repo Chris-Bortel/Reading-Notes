@@ -11,7 +11,7 @@ What this chapter is all about
 `<form>`
 - action
 - method
-- id
+- id\
 form control
 - adding text
   - text input pp152
@@ -49,6 +49,8 @@ There are specific CSS properties used the controll the appearance of lists, tab
 - listmarkers are manipulated using list-style-type and llist-style
 - more interactive forms are better forms
 - flow matters when event handlers are on an element and one of its ancetor or descendant els.
+- Forms can be aligned so they are easier to use.
+- you can space table sections out.
 
 
 

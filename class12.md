@@ -1,5 +1,5 @@
 # Read: 12 - Docs for the HTML <canvas> Element & Chart.js
-
+[GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
 ## Charts.js docs
 - I probably want to download the Chart.js from GitHub releases
 
