@@ -88,6 +88,16 @@ Debugging is an option, but there are more "graceful" ways to deal with it. Ente
 
 <br>![try,catch,finally](img/TryCatchFinallyCh.10pp.480.png)
 
+In more detail it looks like this:
+<br>![more handling](img/HandlingErrorsCh10pp481.png)
+
+- Finally, Throwing errors... **I want to learn this**
+  - if you know that something might cause a problem in your script, you can generate you own errors before the js interpreter creates them.
+    <br>
+  `
+  throw new Error('message);
+  `
+
 
 
 
