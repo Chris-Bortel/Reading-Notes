@@ -63,3 +63,7 @@ strokeText(text, x, y [, maxWidth])
 ## Styling text
 ### This Handy tool allows us to go in and style text
 
+
+
+
+

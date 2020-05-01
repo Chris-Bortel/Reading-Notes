@@ -7,7 +7,7 @@ Manipulation the image inside on the css is better because it do not mess up the
 - background images can appear once or be behind any element on the page.
 
 ## Chapter 19: “Practical Information” (476-492)
-- The more you use search image optimixation, the more likkely visitors will find you site when using search images
+- The more you use search image optimixation, the more likely visitors will find you site when using search images
 
 -  Domain names and web hosting allow you to put your site on the web.
 
