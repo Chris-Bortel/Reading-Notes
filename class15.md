@@ -1,4 +1,7 @@
+# Reading 15
+
 ## google and the path to create the perfect team
+<br> [GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
 
 Project Aristotle — to study hundreds of Google’s teams and figure out why some stumbled while others soared. 
 
