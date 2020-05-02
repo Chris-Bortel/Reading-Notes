@@ -16,6 +16,8 @@
 - [Read: 10 - JS Debugging](class10.md)
 - [Read: 11 - Assorted Topics](class11.md)
 - [Read: 12 - Docs for the HTML Element and chart.js](class12.md)
+- [Read: 13 - Past present and future of local storage applications](class13.md)
+- [Read: 14 - What Google Learned From Its Quest to Build the Perfect Team](class14.md)
 
 ## Code 301
 ## Code 401
