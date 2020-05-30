@@ -21,5 +21,6 @@
 - [Read: 15 - What Google Learned From Its Quest to Build the Perfect Team](class15.md)
 
 ## Code 301
+- [Read: 01 - Readings: RESPONSIVE WEB DESIGN and FLOATS](code-301/read01.md)
 ## Code 401
 
