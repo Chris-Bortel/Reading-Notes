@@ -92,5 +92,28 @@ The jQuery object is set to contain an empty
 adding the new elements to the page
 ![](../img/jQueryCreateNewEl.png)
 
+### changing content
+![](../img/emTags.png)
+
+
+## getting and setting css properties
+.css() method lets us retrieve and set the values of CSS properties
+
+
+pg.322
+- To get the value of a CSS property, you indicate which property you want to retrieve in parentheses. If the matched set contains more than one element, it will return the value from the first element.
+- To set the values of a CSS property, you specify the property name as the first argument in the parentheses, then a comma, followed by its value as the second argument. This w ill update every element
+in the matched set. You can also specifymultiplepropertiesinthe same method using object literal notation.
+
+
+## WORKING WITH EACH ELEMENT IN A SELECTION
+
+.each() method allows us to recreate the functionality of a loop on a selection of elements.
+
+![](../img/emTags.png)
+- shows how to use the .each() method
+
+
+
 ## 354-357
 
