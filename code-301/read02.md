@@ -114,6 +114,20 @@ in the matched set. You can also specifymultiplepropertiesinthe same method usin
 - shows how to use the .each() method
 
 
+# 6 Reasons to pair program
+[Article](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
-## 354-357
+### Why pair program?
+- four fundamental skills that help anyone learn a new language: Listening: hearing and interpreting the vocabulary Speaking: using the correct words to communicate an idea Reading: understanding what written language intends to convey Writing: producing from scratch a meaningful.
+- lets us speak about code, listen to others guidance, read code that others have writen, and write the code ourselves.
+
+
+
+
+
+
+
+
+
+
 
