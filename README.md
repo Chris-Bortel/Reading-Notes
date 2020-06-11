@@ -24,5 +24,7 @@
 - [Read: 01 - Readings: RESPONSIVE WEB DESIGN and FLOATS](code-301/read01.md)
 - [Read: 02 - jQuery, Events, and The DOM](code-301/read02.md)
 - [Read: 03 - Flexbox and Templating](code-301/read03.md)
+- [Read: 03 - Flexbox and Templating](code-301/read03.md)
+- [ Read: 04 - Responsive Web Design and Regular Expressions](code-301/read04.md)
 ## Code 401
 
