@@ -1,9 +1,13 @@
 # Reading-Notes
-##### This website is built with the purpose of documenting and highlighting the information that I obtained through my class readings. 
+
+##### This website is built with the purpose of documenting and highlighting the information that I obtained through my class readings.
+
 [GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
 
 ## Code 102
+
 ## Code 201
+
 - [Read: 01 - Introductory HTML and JavaScript](class01.md)
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)
 - [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class03.md)
@@ -21,10 +25,12 @@
 - [Read: 15 - What Google Learned From Its Quest to Build the Perfect Team](class15.md)
 
 ## Code 301
+
 - [Read: 01 - Readings: RESPONSIVE WEB DESIGN and FLOATS](code-301/read01.md)
 - [Read: 02 - jQuery, Events, and The DOM](code-301/read02.md)
 - [Read: 03 - Flexbox and Templating](code-301/read03.md)
 - [Read: 03 - Flexbox and Templating](code-301/read03.md)
 - [ Read: 04 - Responsive Web Design and Regular Expressions](code-301/read04.md)
-## Code 401
+- [ Read: 05 - Heroku Deployment](code-301/read05.md)
 
+## Code 401
