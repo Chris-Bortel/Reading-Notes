@@ -32,5 +32,6 @@
 - [Read: 03 - Flexbox and Templating](code-301/read03.md)
 - [ Read: 04 - Responsive Web Design and Regular Expressions](code-301/read04.md)
 - [ Read: 05 - Heroku Deployment](code-301/read05.md)
+- [ Read: 06 - Node.js](code-301/read06.md)
 
 ## Code 401
