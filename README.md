@@ -34,5 +34,7 @@
 - [ Read: 05 - Heroku Deployment](code-301/read05.md)
 - [ Read: 06 - Node.js](code-301/read06.md)
 - [ Read: 07 - APIs continued](code-301/read07.md)
+- [ Read: 08 - APIs continued](code-301/read08.md)
+- [ Read: 09 - Refactoring](code-301/read09.md)
 
 ## Code 401
