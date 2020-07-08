@@ -1,5 +1,7 @@
 # Read: 11 - EJS
 
+[README](/README.md)
+
 ## [Watch EJS tutorial from WalkThroughCode on YouTube, Videos 1-5](https://www.youtube.com/watch?v=IqpfBGsALqc&list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
 
 ### Getting started  || *could use db config* ||
