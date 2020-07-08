@@ -21,8 +21,6 @@ APIS - use the same protocols from above to retrieve information
 Fieldng and company built the web to talk to any machine anywhere in the world. the machines that we use had to be upgraded to be able to do that. 
 - "redirect" is when a machine needs something that it does not have, so it asks another machine for it. The URL is how this is done.
   - URLs can be thought of as nouns they are the objects that we want.
-  - adversely, a CS theory called "polymorphism" which acts as a verb. *different nouns can havve the same verb applied to them*. 
-    - You can GET nouns also, ( GET, PUT, and DELETE )
+  - adversely, a CS theory called "polymorphism" which acts as a verb. **different nouns can havve the same verb applied to them**. 
+    - You can GET nouns also, ( GET, PUT, and DELETE ) which means getting/ doing something to different resources.
 
-
-# WIP
