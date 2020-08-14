@@ -68,7 +68,10 @@
 - class
 - prototype
 - ``super``
+
 - inheritance
+  - includes what is called prototype chaining which says that each prototype has its own private properties and that the prototype of that prototype contains some of those characteristics. Value of ``this`` points to the inheriting object. 
+
 - constructor
 - instance
 - context
