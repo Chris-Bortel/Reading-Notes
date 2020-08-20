@@ -42,3 +42,5 @@
 - [Read: 00 - Prep: Engineering Topics](code-401/read00.md)
 - [Read: 01 - Node Ecosystem, TDD, CI/CD](code-401/read01.md)
 - [Read: 02 - Classes, Inheritance, and Functional Programming](code-401/read02.md)
+- [Read: 03 - Data Modeling & NoSQL Databases](code-401/read03.md)
+- [Read: 04 - Advanced Mongo/Mongoose](code-401/read04.md)

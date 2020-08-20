@@ -22,7 +22,7 @@ What purpose do CRUD operations serve?
 - MongoDB is mainly used when data is unstructured and there is a need for modifying the JSON data inside the storage.
 
 
-- What is Mongoose and why do we need it?
+What is Mongoose and why do we need it?
   - See below. 
 
 - Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
@@ -45,7 +45,9 @@ helps us understand what is going on inside of the database. It is the structure
 sanitize
 
 Structured Query Language (SQL)
+- is a language that is used for accessing and minipulating databases. This is a relational db
 Non SQL (NoSQL)
+- does not use relational storage. good for storing data of differing data types
 
 MongoDB 
 -  documented based which uses collections to store the related information.
@@ -57,5 +59,8 @@ Mongoose explained briefly...[Stackchief: Top 4 reasons to use mongoose with mon
   -  it saves time writing your own validations and instance methods
   
 record
-document
+- is the way that data entries are stored in a SQL db
+document. They use rows and columns to organize data. 
+- is the way that entries are stored in a NoSQL db
 Object Relation Mapping (ORM)
+- a way of converting data from one incompatible system type to another. Wikipedia says that it essentially, "Create a virual object db that can be used within the programming language. 
