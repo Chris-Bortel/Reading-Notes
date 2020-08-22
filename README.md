@@ -44,3 +44,4 @@
 - [Read: 02 - Classes, Inheritance, and Functional Programming](code-401/read02.md)
 - [Read: 03 - Data Modeling & NoSQL Databases](code-401/read03.md)
 - [Read: 04 - Advanced Mongo/Mongoose](code-401/read04.md)
+- [Read: 09a - Linked Lists](code-401/read09a.md)
