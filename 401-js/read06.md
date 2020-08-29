@@ -1,4 +1,4 @@
-# Read: 04 - HTTP and REST
+# Read: 06 - HTTP and REST
 
 [README](/README.md)
 
