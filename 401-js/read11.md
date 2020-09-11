@@ -1,10 +1,10 @@
-# Read: 04 - Linked Lists
+# Read: 11 - Authentication
 
 
 [README](/README.md)
 
 Explain what a “Singleton” is (in Computer Science terms) [what is a singleton?](https://medium.com/better-programming/the-complete-guide-to-the-singleton-design-pattern-dd0e7a5a4dc)
-- **It makes sure that a instantiat of a class only has one instance**
+- **It makes sure that a instantiation  of a class only has one instance**
 - a class that has it's own attribute called unqueInstance that stores an instance of the Singleton class. The class constructore is privatte and can only be access through and accessor method. the accessor method is responsible for returning the single instance or if it does not exist, then it will create a new instance
   - making multiple instances of one object could be prblematic
   - in the above article, he is making logger into a singleton which reuses one instance of the class

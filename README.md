@@ -45,6 +45,7 @@
 - [Read: 03 - Data Modeling & NoSQL Databases](401-js/read03.md)
 - [Read: 04 - Advanced Mongo/Mongoose](401-js/read04.md)
 - [Read: 09a - Linked Lists](401-js/read09a.md)
+- [Read: 09a - Stacks and Queues](401-js/read09a.md)
 - [Read: 06 - HTTP and REST](401-js/read06.md)
 - [Read: 07 - Express](401-js/read07.md)
-- [Read: 09 - Authentication](401-js/read11.md)
+- [Read: 11 - Authentication](401-js/read11.md)
