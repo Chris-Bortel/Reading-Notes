@@ -45,6 +45,7 @@ hashing
 
 token
 
+- [How Does Token-Based Authentication Work?](https://www.solarwindsmsp.com/blog/how-does-token-based-authentication-work)
 - often contains a header, payload, and a signature
   - header has the payload type and the signing algorithm
   - payload has the data that pertains to the user

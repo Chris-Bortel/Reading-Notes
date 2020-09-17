@@ -39,6 +39,7 @@
 - [ Read: 11 - ejs](301/read11.md)
 
 ## Code 401
+
 - [Read: 00 - Prep: Engineering Topics](401-js/read00.md)
 - [Read: 01 - Node Ecosystem, TDD, CI/CD](401-js/read01.md)
 - [Read: 02 - Classes, Inheritance, and Functional Programming](401-js/read02.md)
@@ -49,3 +50,4 @@
 - [Read: 06 - HTTP and REST](401-js/read06.md)
 - [Read: 07 - Express](401-js/read07.md)
 - [Read: 11 - Authentication](401-js/read11.md)
+- [Read: 12 - OAuth](401-js/read12.md)
