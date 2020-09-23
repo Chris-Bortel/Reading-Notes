@@ -1,4 +1,4 @@
-# Read 13:Access Control (ACL)
+# Read 13:Access Control (ACL) 9-23-2020
 
 [README](/README.md)
 
@@ -24,46 +24,48 @@
 
 - Restrict API access and permissions
 
-Vocabulary Terms
+## Vocabulary Terms
 
-1. encryption - Encryption is used to keep data secret. In its simplest form, a file or data transmission is garbled so that only authorized people with a secret key can unlock the original text.
+1. Encryption - Encryption is used to keep data secret. In its simplest form, a file or data transmission is garbled so that only authorized people with a secret key can unlock the original text.
 
-2. token
+2. Token - Bearer Token A security token with the property that any party in possession of the token (a "bearer") can use the token in any way that any other party in possession of it can. Using a bearer token does not require a bearer to prove possession of cryptographic key material (proof-of-possession).
 
-- Bearer Token A security token with the property that any party in possession of the token (a "bearer") can use the token in any way that any other party in possession of it can. Using a bearer token does not require a bearer to prove possession of cryptographic key material (proof-of-possession).
+3. Bearer - A passport to get you into secure places
 
-3. bearer
+4. Secret - Also allows you get places
 
-- a passport to get you into secure places
-
-4. secret
-
-- Also allows you get places
-
-5. JSON Web Token
-
-- JSON Web Token combines header, payload, signature into one encrypted string.
+5. JSON Web Token - JSON Web Token combines header, payload, signature into one encrypted string.
 
 ## Preparation material
 
-[RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
+### [RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
 
 - Role-Based Access Control (RBAC) -- system to restrict access to authorized users
 
 - Provides access depending on the role of the individual of that is asking for entry
 
-access may be based on job function or role of a user
-users authenticate themselves to the system
-users then can activate one or more roles for themselves
+- Access may be based on job function or role of a user
+
+- Users authenticate themselves to the system
+
+- Users then can activate one or more roles for themselves
 
 Benefits
 Policy does not need to be updated when certain person leaves the org
 New employee is automatically able to access their role.
 Roles give the ability to protect resources that people do not need access to.
 
-5 steps to RBAC
+### [5 steps to RBAC](https://www.csoonline.com/article/3060780/5-steps-to-simple-role-based-access-control.html)
 
-[wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) is a system to restrict access to authorized users
+### [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) is a system to restrict access to authorized users.
+
+- Three primary rules are defined for RBAC:
+
+1. Role assignment: A subject can exercise a permission only if the subject has selected or been assigned a role.
+
+2. Role authorization: A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.
+
+3. Permission authorization: A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
 
 ## Side Notes:
 
