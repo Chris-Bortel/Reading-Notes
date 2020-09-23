@@ -1,4 +1,4 @@
-# Read 9a: OAuth
+# Read 12: OAuth
 
 [README](/README.md)
 
@@ -38,28 +38,26 @@ encryption
 hashing
 
 - a one-way function that scrabbles plain text to make something that is safe and digestible by programs and is unable to be reversed
+<!-- ## session
 
-## session
+## cookie -->
 
-## cookie
-
-token
+<!-- token -->
 
 - [How Does Token-Based Authentication Work?](https://www.solarwindsmsp.com/blog/how-does-token-based-authentication-work)
 - often contains a header, payload, and a signature
   - header has the payload type and the signing algorithm
   - payload has the data that pertains to the user
   - signature s used to make sure the message has not been jeopardized
+  <!-- ## Basic Auth
 
-## Basic Auth
-
-## encoding
+## encoding -->
 
 secret
 
--
+- is the key that allows the token to work
 
-cryptography
+<!-- cryptography -->
 
 #### oAuth
 
