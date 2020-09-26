@@ -52,3 +52,5 @@
 - [Read: 11 - Authentication](401-js/read11.md)
 - [Read: 12 - OAuth](401-js/read12.md)
 - [Read: 13 - TODO](401-js/read13.md)
+- [Read: 14 - Access Control](401-js/read14.md)
+- [Read: 16 - Event Driven Applications](401-js/read16.md)
