@@ -47,6 +47,7 @@
 - [Read: 04 - Advanced Mongo/Mongoose](401-js/read04.md)
 - [Read: 09a - Linked Lists](401-js/read09a.md)
 - [Read: 09a - Stacks and Queues](401-js/read09a.md)
+- [Read: 09b - Trees](401-js/read09b.md)
 - [Read: 06 - HTTP and REST](401-js/read06.md)
 - [Read: 07 - Express](401-js/read07.md)
 - [Read: 11 - Authentication](401-js/read11.md)
@@ -54,3 +55,4 @@
 - [Read: 13 - TODO](401-js/read13.md)
 - [Read: 14 - Access Control](401-js/read14.md)
 - [Read: 16 - Event Driven Applications](401-js/read16.md)
+- [Read: 17 - TCP Servers](401-js/read17.md)
