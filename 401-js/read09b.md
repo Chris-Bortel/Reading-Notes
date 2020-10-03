@@ -41,5 +41,3 @@ navigate back up the tree when we have reached the end of a sub-path
 - In order: left >> root >> right
 
 - Post-order: left >> right >> root
-
-- Breadth First

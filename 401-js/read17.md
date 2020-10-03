@@ -71,5 +71,3 @@ TCP is a connection-oriented protocol, which means a connection is established a
 - breaks the app data into packets that networks can deliver, sends packets to and accepts packets from the network layer, manages flow control and provides error-free data transmission.
 
 - session layer helps is authentication, authorization, session Management
-
-Transport layer
