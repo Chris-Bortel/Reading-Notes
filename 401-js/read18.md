@@ -1,5 +1,7 @@
 # Read 18: 10-7-2020
 
+## Socket.io
+
 [README](/README.md)
 
 ### Review, Research, and Discussion
@@ -54,10 +56,10 @@
 
 open server and people are sending things back and forth at real time. Each person is connected to a socket that connects to a server that sends and receives data us data to stream live ? (ex. everyone is using one socket to connect to zoom's servers using UDP) we are ll connected to our own 'wire', that is attached to the server.
 
-[Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
-[Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
-[Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
-[Socket.io Documentation](https://socket.io/docs/)
-[Socket.io Server API](https://socket.io/docs/server-api)
-[Socket.io Client API](https://socket.io/docs/client-api)
-[Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
+- [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
+- [Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
+- [Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
+- [Socket.io Documentation](https://socket.io/docs/)
+- [Socket.io Server API](https://socket.io/docs/server-api)
+- [Socket.io Client API](https://socket.io/docs/client-api)
+- [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
