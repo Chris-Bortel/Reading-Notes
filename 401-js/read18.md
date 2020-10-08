@@ -22,7 +22,13 @@
 
 ### Document the following Vocabulary Terms
 
-1. OSI Model
+1. OSI Model : Open Systems Interconnection has 7 layers in three categories
+
+- Software layers { Application Layer, Presentation layer, Session layer }
+
+- Heart of OSI { Transport Layer }
+
+- Hardware Layers { Network Layer, Data link layer, Physical layer }
 
 2. TCP Model : Sends data bit by bit and gets acknowledge, then the data gets sent again
 
@@ -47,3 +53,11 @@
 - socket.io is a way to use events over the sockets ---> it allows us to use http to do tcp type work
 
 open server and people are sending things back and forth at real time. Each person is connected to a socket that connects to a server that sends and receives data us data to stream live ? (ex. everyone is using one socket to connect to zoom's servers using UDP) we are ll connected to our own 'wire', that is attached to the server.
+
+[Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
+[Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
+[Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
+[Socket.io Documentation](https://socket.io/docs/)
+[Socket.io Server API](https://socket.io/docs/server-api)
+[Socket.io Client API](https://socket.io/docs/client-api)
+[Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
