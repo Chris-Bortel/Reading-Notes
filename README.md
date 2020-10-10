@@ -57,3 +57,4 @@
 - [Read: 16 - Event Driven Applications](401-js/read16.md)
 - [Read: 17 - TCP Servers](401-js/read17.md)
 - [Read: 18 - Socket.io](401-js/read18.md)
+- [Read: 18 - Message queues](401-js/read19.md)
