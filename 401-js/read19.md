@@ -14,6 +14,8 @@
 
 3. What happens when a client emits an event?
 
+- It is sent out to the server and the server acts on it.
+
 4. What happens when a server emits an event?
 
 - sends a message to all the connected clients
@@ -21,7 +23,11 @@
 
 5. What happens if a client “misses” an event?
 
+- It is lost for ever
+
 6. How can we mitigate this?
+
+- We want to use message queues
 
 ### Terms
 
