@@ -7,7 +7,7 @@
 
 ### What are they
 
-- They are data stuctures that use key value pairs.
+- They are data structures that use key value pairs.
 - They are composed of nodes also known as buckets
 - We hash the key which sends the item to the the exact location using the index.
 
