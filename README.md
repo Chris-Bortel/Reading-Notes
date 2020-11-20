@@ -59,4 +59,5 @@
 - [Read: 18 - Socket.io](401-js/read18.md)
 - [Read: 19 - Message queues](401-js/read19.md)
 - [Read: 26 - Component Based UI](401-js/read26.md)
+- [Read: 29 - Routing](401-js/read29.md)
 - [Read: 31 - Hooks API ](401-js/read31.md)
