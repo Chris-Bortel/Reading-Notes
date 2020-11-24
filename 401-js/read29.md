@@ -7,7 +7,7 @@
 ### Questions
 
 1. Do child components have direct access to props/state from the parent?
- - Child components need tne parent component to send the props to them
+ - Child components need the parent component to send the props to them
 
 2. When a component “wraps” another component, how does the child component’s output get rendered?
   - It needs to have a function from the wrapper to send the data to the component to be rendered
