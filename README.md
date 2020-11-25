@@ -61,4 +61,4 @@
 - [Read: 26 - Component Based UI](401-js/read26.md)
 - [Read: 29 - Routing](401-js/read29.md)
 - [Read: 31 - Hooks API ](401-js/read31.md)
-- [Read: 33 - Context API ](401-js/read313.md)
+- [Read: 33 - Context API ](401-js/read33.md)
