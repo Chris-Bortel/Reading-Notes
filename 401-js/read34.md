@@ -33,3 +33,11 @@ so I will probably try
 
 4. consumer
 - The kid that takes the state a good stuff from the context if it wants it
+
+### Helpful Resources
+
+* [What is role based access control?](https://digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more)
+* [React-cookies component](https://www.npmjs.com/package/react-cookies)
+* [React-cookie library](https://www.npmjs.com/package/react-cookie)
+* [Provider Pattern with react context API](https://blog.flexiple.com/provider-pattern-with-react-context-api/)
+* [Working with react context API](https://www.toptal.com/react/react-context-api)
