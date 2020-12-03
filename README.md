@@ -67,4 +67,7 @@
 - [Read: 29 - Routing](401-js/read29.md)
 - [Read: 31 - Hooks API ](401-js/read31.md)
 - [Read: 33 - Context API ](401-js/read33.md)
+<<<<<<< HEAD
 - [Read: 34 - `<login />` and `<Auth />` ](401-js/read34.md)
+=======
+>>>>>>> 187adb2b2a90f016d919062e9b05b51a48060975
