@@ -30,5 +30,15 @@
 
 ### Preparation Materials
 - [context api](https://reactjs.org/docs/context.html)
+  - Using context, we can avoid passing props through intermediate elements
+  
+  - Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult.
+
+  - sometimes the same data needs to be accessible by many components in the tree, and at different nesting levels. Context lets you “broadcast” such data, and changes to it, to all components below. Common examples where using context might be simpler than the alternatives include managing the current locale, theme, or a data cache.
+
+
 - [hooks and context example](https://medium.com/swlh/snackbars-in-react-an-exercise-in-hooks-and-context-299b43fd2a2b)
 - [react context links](https://github.com/diegohaz/awesome-react-context)
+
+
+
