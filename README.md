@@ -1,5 +1,5 @@
 # Reading-Notes
-
+## [GitHub Pages](https://chris-bortel.github.io/Reading-Notes/)
 ##### This website is built with the purpose of documenting and highlighting the information that I obtained through my class readings.
 
 [GitHub Repo](https://github.com/Chris-Bortel/Reading-Notes)
@@ -69,3 +69,4 @@
 - [Read: 33 - Context API ](401-js/read33.md)
 - [Read: 34 - `login` and `Auth`](401-js/read34.md)
 - [Read: 36 - Application State with Redux](401-js/read36.md)
+- [Read: 37 - Redux - Combined Reducers](401-js/read36.md)

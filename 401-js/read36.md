@@ -51,12 +51,12 @@ mutations and changes are explicit
 ### [Worlds easiest guide to redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
  - The state of the application is kept safe by something called a store... It is like the bank vault of the application
 
-####   sRedux principles
+#### Redux principles
 1. Single source of truth (one state to rule them all)
 2. State is read only, the only way to change the state is to **emit** an **action** ---> an action is an object TAKES a type field that describes what you want your action to do, and then what you want to do
 3. To specify how the state tree is transformed by actions, you write pure reducers
 
-### [testing redux](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
+### [Testing redux](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
 ### [Redux Docs](https://redux.js.org/)
 
 
