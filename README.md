@@ -69,4 +69,5 @@
 - [Read: 33 - Context API ](401-js/read33.md)
 - [Read: 34 - `login` and `Auth`](401-js/read34.md)
 - [Read: 36 - Application State with Redux](401-js/read36.md)
-- [Read: 37 - Redux - Combined Reducers](401-js/read36.md)
+- [Read: 37 - Redux - Combined Reducers](401-js/read37.md)
+- [Read: 39 - Redux - Assorted Topics](401-js/read39.md)
