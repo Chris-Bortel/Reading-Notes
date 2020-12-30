@@ -67,6 +67,7 @@
 - [Read: 29 - Routing](401-js/read29.md)
 - [Read: 29 - Routing](401-js/read29.md)
 - [Read: 31 - Hooks API ](401-js/read31.md)
+- [Read: 32 - Custom Hooks ](401-js/read32.md)
 - [Read: 33 - Context API ](401-js/read33.md)
 - [Read: 34 - `login` and `Auth`](401-js/read34.md)
 - [Read: 36 - Application State with Redux](401-js/read36.md)
